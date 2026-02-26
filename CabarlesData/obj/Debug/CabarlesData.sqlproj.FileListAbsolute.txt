@@ -1,0 +1,6 @@
+E:\bans\Cabarles\Cabarles\CabarlesData\bin\Debug\CabarlesData.dacpac
+E:\bans\Cabarles\Cabarles\CabarlesData\bin\Debug\CabarlesData.dll
+E:\bans\Cabarles\Cabarles\CabarlesData\bin\Debug\CabarlesData.pdb
+E:\bans\Cabarles\Cabarles\CabarlesData\obj\Debug\CabarlesData.sqlproj.AssemblyReference.cache
+E:\bans\Cabarles\Cabarles\CabarlesData\obj\Debug\CabarlesData.dll
+E:\bans\Cabarles\Cabarles\CabarlesData\obj\Debug\CabarlesData.pdb

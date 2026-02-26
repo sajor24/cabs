@@ -1,0 +1,7 @@
+﻿CREATE PROCEDURE [dbo].[GetPOS]
+	
+AS
+BEGIN
+	SELECT * From POS
+
+	END
